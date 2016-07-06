@@ -26,9 +26,9 @@
   ],
   "dependencies": {
     "check-types": "^4.2.0",
-    "escomplex": "^1.3.0",
-    "escomplex-ast-moz": "^0.2.1",
-    "esprima": "^2.7.0"
+    "escomplex": "2.0.0-alpha",
+    "escomplex-ast-moz": ">=0.2.1",
+    "esprima": ">=2.7.2"
   },
   "devDependencies": {
     "chai": "^3.4.0",
